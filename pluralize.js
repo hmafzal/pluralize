@@ -441,6 +441,7 @@
     'highjinks',
     'homework',
     'housework',
+    'info',
     'information',
     'jeans',
     'justice',
